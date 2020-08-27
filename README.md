@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-A movie recommender system using item based collaborative filtering
+A recommender system for movies using item based collaborative filtering. It uses a user's past movie ratings to determine the movies that they have the highest correlation with.
